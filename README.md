@@ -9,3 +9,6 @@ This is an experimental version. Future upgrades will include a more comprehensi
 Please note that this version has not been tested with a large number of wallet addresses. We encourage you to experiment and provide feedback.
 
 This repository is entirely open source, and anyone is welcome to use and build upon it.
+
+**THIS VERSION CURRENTLY ONLY SUPPORTS ETH/NAT/SGB/FLR
+using other tokens such as wflr or wsgb for payment will not trigger a distirbution event with the contract in it's current state. Additional compatibility will be added at a later date, however in the event that erc20/721/1155 are deposited to the contract witfrawal functions have been added as a precautionary measure.
